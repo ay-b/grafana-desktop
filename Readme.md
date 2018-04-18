@@ -10,8 +10,7 @@ Feel free to play with compose-file and tune it to fit your needs.
 Docker image: https://hub.docker.com/_/influxdb/  
 
 ## Chronograf
-**Admin UI for Influxdb**
-Web-UI: http://localhost:8087/  
+Admin UI for Influxdb: http://localhost:8087/  
 
 ## Telegraf
 Docker image: https://hub.docker.com/r/appcelerator/telegraf/  
